@@ -38,3 +38,7 @@ https://raw.githubusercontent.com/wio-ki/Emby-Cover/main/emby-root_%E7%BE%8E%E5%
 ```
 https://raw.githubusercontent.com/wio-ki/Emby-Cover/main/emby-root_%E9%9F%A9%E5%89%A7_20260405_150813.png
 ```
+#### 日剧
+```
+https://raw.githubusercontent.com/wio-ki/Emby-Cover/main/emby-root_%E6%97%A5%E5%89%A7_20260406_013619.png
+```

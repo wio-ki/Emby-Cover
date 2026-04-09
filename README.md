@@ -8,7 +8,10 @@ Emby 媒体库封面图片合集。
 ```
 https://raw.githubusercontent.com/wio-ki/Emby-Cover/main/%E5%9B%BD%E4%BA%A7%E5%89%A7.png
 ```
-
+#### 综艺
+```
+https://raw.githubusercontent.com/wio-ki/Emby-Cover/main/%E7%BB%BC%E8%89%BA.png
+```
 #### 国漫
 ```
 https://raw.githubusercontent.com/wio-ki/Emby-Cover/main/%E5%9B%BD%E6%BC%AB.png
